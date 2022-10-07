@@ -1,15 +1,3 @@
-# Explicación
-
-- Algo en negrita
-- Enlace a la wikipedia
-- Foto de un gato
-- Una mención a Kant003
-- Un titulo principal y dos secundarios
-- Un cheklist con tareas marcadas y desmarcadas
-- Un trozo de codigo fuente en otro lenguaje
-- Una tabla comparativa de diferentes tipos de razas
-- Algun emoji 
-- Sube los cambios a tu repositorio
 
 # Web de Gatos
 
@@ -18,12 +6,10 @@ Esta se trata de una web con iformación que puede resultar interesante a cierta
 ## ¿Qué es un gato?
 ------------------
 
-**Gato**: procedente del vocablo latino *cattus*, es un término que alude a un animal mamífero que forma parte del conjunto de los félidos: 
-
 ![Imagen de un gato para compelementar la definición](https://enciclopedia.net/imgs/Gato.jpg)
 ##### *Imagen de un gato*
 
-Cabe mencionar que existen gran variedad de especies felinas catalogadas en razas.
+
 
 ## Comparativa de razas
 -----------------------
@@ -63,4 +49,23 @@ public class Gato {
 }
 
 ```
-Finalizada la etapa de decisión t
+
+## Lista de tareas
+------------------
+
+* [x] Alimetarlos con pienso ultima
+* [ ] Bañarlos
+* [x] Comprarles un rascador
+* [ ] Cortales las uñas
+* [x] Enseñarle trucos
+  * [x] Enseñarle a hacer la declaración de la renta
+  * [ ] Enseñarle a conducir
+
+## Bibliografía
+------------------
+
+Toda la información ha sido Obtenida a través de este artículo de [Wikipedia](https://es.wikipedia.org/wiki/Felis_silvestris_catus).
+
+### Agradecimientos
+-----
+Esta web ha sido en parte creada a la aportación de @Kant003 :smiling_imp::thumbsup:
